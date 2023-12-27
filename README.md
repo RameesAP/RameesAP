@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rameesap.github.io/React-Portfolio-1/](https://rameesap.github.io/React-Portfolio-1/)
 
-- 💬 Ask me about **Next JS, React JS, JavaScript, NodeJS, Express JS, MongoDB, PSQL**
+- 💬 Ask me about **Next JS, React JS, MERN**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-ramees-3770b6178/**
 
